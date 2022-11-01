@@ -3,7 +3,7 @@
 
 
 
-<img src="https://github.com/intellifire/project/blob/main/images/easymap_logo.png" alt="EasyMap Logo" width="256">
+<img src="https://github.com/intellifire/project/blob/main/images/sparcs_open_icon.png?raw=true" alt="EasyMap Logo" width="256">
  
 
 ## What is Easymap
