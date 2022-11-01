@@ -1,5 +1,11 @@
 # EasyMap Users Guide
 
+
+
+
+<img src="https://github.com/intellifire/project/blob/main/images/easymap_logo.png" alt="EasyMap Logo" width="256">
+ 
+
 ## What is Easymap
 
 EasyMap 3 is the user interface for the IntelliFire system. It is the central hub for using the decision support system.
